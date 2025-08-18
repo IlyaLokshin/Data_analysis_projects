@@ -3,8 +3,6 @@
 ## Project overview
 The aim of this project is to model the casualties rate (per 100 000 men) in Russia-Ukraine war across regions of Russia based on various socio-economic and demographic indicators. 
 
-This is an abridged version of the project. For many details, please see the full version.
-
 The data on the absolute number of Russian casualties (deaths) in Russia-Ukraine war across regions comes from [Mediazona](https://zona.media/article/2023/07/10/stats). The methodology for counting casualties can be found [here](https://zona.media/article/2023/07/10/stats). It is important to note that not all casualties are accounted for in this record; it is reasonable to assume that the actual number of casualties is 1.5 to 2 times higher. Nonetheless, this is currently the most reliable data available. 
 
 The serious issue concerning the usage of this data in machine learning projects is whether it is representative of the real toll of casualties, specifically whether there is significant selection bias. Unfortunately, we can only speculate on this issue at present. For instance, it is likely that the deaths of Russian soldiers from low populated towns and villages are underrepresented in the Mediazona records. However, to the best of my knowledge, this remains an assumption that has not been rigorously demonstrated so far. Overall, perhaps the best way to frame the following analysis is not in terms of the real death toll of the war on Russian regions but the death toll that has been adequately registered by the best efforts of journalists working on this issue. 
