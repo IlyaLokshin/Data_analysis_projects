@@ -3,16 +3,7 @@
 ## Project overview
 The aim of this project is to model the casualties rate (per 100 000 men) in Russia-Ukraine war across regions of Russia based on various socio-economic and demographic indicators. 
 
-The data on the absolute number of Russian casualties (deaths) in Russia-Ukraine war across regions comes from [Mediazona](https://zona.media/article/2023/07/10/stats). The methodology for counting casualties can be found [here](https://zona.media/article/2023/07/10/stats). It is important to note that not all casualties are accounted for in this record; it is reasonable to assume that the actual number of casualties is 1.5 to 2 times higher. Nonetheless, this is currently the most reliable data available. 
-
-The serious issue concerning the usage of this data in machine learning projects is whether it is representative of the real toll of casualties, specifically whether there is significant selection bias. Unfortunately, we can only speculate on this issue at present. For instance, it is likely that the deaths of Russian soldiers from low populated towns and villages are underrepresented in the Mediazona records. However, to the best of my knowledge, this remains an assumption that has not been rigorously demonstrated so far. Overall, perhaps the best way to frame the following analysis is not in terms of the real death toll of the war on Russian regions but the death toll that has been adequately registered by the best efforts of journalists working on this issue. 
-
 It is important to note that this project is primarily focused on machine learning and does not intend to make any claims beyond the technical aspects of applying machine learning techniques to data on Russian casualties. This project does not pursue any political agenda. With this in mind, it may be interesting to explore how effectively machine learning techniques can model this type of data. 
-
-Additionally, the sample size is small—only 85 regions. Following machine learning practices, this sample is further divided into training and test sets, which exacerbates the sample size issue. For such small samples, simple techniques that generally avoid overfitting are often the most suitable. However, in this project, some relatively sophisticated methods have been employed. It is essential to acknowledge that this is a portfolio project, one of the aims of which is to demonstrate a specific set of skills in machine learning and the ability to work with various models. As a result, some methods were tried and experimented with (especially in the full version of this project) which perhaps would not be employed in "real" ML projects demanding more robust approaches. Nevertheless, relatively sophisticated and arguably less robust methods on small datasets generally succeeded in this particular project, as can be seen in the corresponding sections below. 
-
-***
-The data in socio-economic indicators of Russian regions was obtained from the Federal State Statistics Service site (Rosstat): [rosstat.gov.ru](rosstat.gov.ru). Information regarding payments for signing a contract to serve in the Russian army was sourced from publicly accessible websites, mainly associated with regional authorities. 
 
 ## Main findings
 
