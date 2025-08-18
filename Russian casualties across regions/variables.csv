@@ -1,0 +1,25 @@
+Feature,Description
+poverty_level_2022,"poverty level, %"
+entrepreneurship_income_2023,"income from entrepreneurship in general income structure, %"
+social_transfers_income_2023,"income from social transfers in general income structure, %"
+mean_salary_2022,mean salary in rubles
+median_income_2022,median income in rubles
+Gini_coeff_2022,Gini coefficient
+decile_coeff_2022,decile coefficient
+GRP_pc_2022,gross regional product per capita
+unemployment_2022,unemployment rate
+men_working_age_total_2022,the total number of men of working age
+relative_cost_of_living_2022,"the coefficient of the cost of living in comparison to the that of Russia on the whole (i.e., for Russian on the whole it equals 1)"
+men_higher_educ_2020,share of men of 20-60 years old with higher education
+population_2022,population
+men_share_never_married_2022,share of men of 20-60 years old who never married
+men_share_divorced_2022,share of men of 20-60 years old divorced or widowed
+share_of_ethnic_russians_2024,share of ethnic Russians
+men_longevity_2022,men life expectancy
+men_working_age_rural_2022,share of men of working age living in country
+crimes_per_10_000_residents_2022,number of crimes per 10 000 residents
+border_with_Ukraine,does the region have a common border with Ukraine (including maritime)?
+casualties_mid_july_2025,the number of casualties as of mid-July 2025
+contract_payment_2023,the size of the immediate payment for signing a contract for the service in Russian army as of 2023
+square_km^2,square in km^2
+Caucasus,does the region belong to Caucasus historic and cultural zone?
