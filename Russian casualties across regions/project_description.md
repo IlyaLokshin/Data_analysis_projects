@@ -1,4 +1,4 @@
-# Russian casualties in Russia-Ukraine war across regions of Russia
+# Russian casualties across regions in the Russia-Ukraine war
 
 ## Project overview
 The aim of this project is to model the casualties rate (per 100 000 men) in Russia-Ukraine war across regions of Russia based on various socio-economic and demographic indicators. 
