@@ -5,6 +5,30 @@ The aim of this project is to model the casualties rate (per 100 000 men) in Rus
 
 It is important to note that this project is primarily focused on machine learning and does not intend to make any claims beyond the technical aspects of applying machine learning techniques to data on Russian casualties. This project does not pursue any political agenda. With this in mind, it may be interesting to explore how effectively machine learning techniques can model this type of data. 
 
+## Stages of the analysis
+
+- Loading data and packages, splitting the data into train and test sets
+- Exploratory analysis and feature engineering
+- Selecting main features 
+- Selecting models for tuning
+- Tuning hyperparameters
+- Choosing the final model
+- Measuring the performance of the best model on the test set
+- Substantive interpretation of the results
+
+## Skills
+
+This is a Python-based Machine Learning project. 
+Main libraries and packages that were used: Pandas, Numpy, Matplotlib, Seaborn, Sklearn.
+Among others, the following techniques and methods were employed:
+- statistical analysis (calculating correlation coefficients, skewness, etc.)
+- visualization
+- creating pipelines
+- building and tuning various regression models
+- writing functions
+- testing the quality of models (non-nested and nested cross-validation, comparing alternative metrics, etc.)
+- interpreting the resuls via SHapley Additive exPlanations (SHAP)
+
 ## Main findings
 
 Our best model generalized quite well: in the nested cross-validation tests on the train set, Pearson's correlation coefficient for the true and predicted values of the target variable is equal to 0.81, whereas $R^2$ is equal to 0.58. On the test set, Pearson's correlation coefficient is 0.78 and $R^2$ is 0.6. Our model is particularly misguided in regard to Sakha, seriously overestimating casualty rate there: without Sakha, Pearson's correlation coefficient would be more than 0.83 on the test set. 
