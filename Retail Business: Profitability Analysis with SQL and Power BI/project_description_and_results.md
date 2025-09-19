@@ -108,7 +108,7 @@ What if it would be possible to recreate the conditions of the 4th quarter of 20
 
 If it would be possible for the Central region to consistently achieve (for every quarter in a year) merely 10% of the net profit of the exceedingly successful 4th quarter of 2016, the total average annual net profit would increase by more than $20,000 (≈7.5%).  
 
-#### 4.3. Final recommendations 
+### 4.3. Final recommendations 
 The most promising strategies for increasing business profitability seem to be the following ones: 
 - reducing in business operations involving lossmaking product categories (especially Tables) or decreasing COGS for them; 
 - optimizing discount policies (likely by decreasing discount values);
@@ -119,7 +119,7 @@ Three directions also can entail an increase in net profits, albeit significantl
 - mitigating the typical decline in sales that tends to occur in February;
 - increasing sales volume for the four categories with the highest profit margins.
 
-#### 4.4. Next steps
+### 4.4. Next steps
 1. There is uncertainty regarding the best strategy of reducing costs related to four lossmaking product categories: increasing price, decreasing COGS or reducing their share in the business’s operations while shifting focus to more profitable categories. Additional analyses and information are needed to determine the best way to proceed.
 2. Since it seems reasonable to revise the discount policies, it is worth researching why discounts do not seem to lead to the increase in sales and what is the best way to revise discount policies (for which subcategories of products, by how much, etc.).
 3. It is unclear which factors contributed to the increase in sales and profits in the Central region during the 4th quarter of 2016. The investigation of these factors can pay off if it turns out that they can be at least partially controlled: gaining even modest shares of the net profits of the 4th quarter of 2016 in a consistent way would noticeably increase the business profitability.
