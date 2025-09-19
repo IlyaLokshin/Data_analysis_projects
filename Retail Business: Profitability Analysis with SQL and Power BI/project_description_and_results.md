@@ -74,6 +74,39 @@ The following graph shows AOV for February across different years. AOV for Febru
 ![Figure 8](https://i.ibb.co/pv71qJ1x/Figure-8.png)
 
 #### 4.1.4. Discount policies
+It can be seen on the scatterplots of discount values and quantities of the products sold that there is a noticeable positive correlation between the variables (see below the scatterplots without filters, but scatterplots for subsets of data look similar).
 
-* 
+*Figure 9*
+
+![Figure 9](https://i.ibb.co/bj0h92QG/Figure-9.png)
+
+The lack of positive correlation between these variables suggests that discounts do not contribute to the increase of sales. If so, it may be beneficial to revise the discount policies.
+
+For example, a 10% reduction in discount values would result in more than $35,000 average increase in annual net profits (or more than 13% of average annual net profits).  
+
+### 4.2. Underexploited Drivers of Profits
+
+#### 4.2.1. Profit-generating categories of products with low sales
+As we could see on the first graph above, copiers, paper, envelopes and labels are the product subcategories generating the most net profit per sale. However, only copiers are in the top 10 products per sale, and none are in the top 5. An increase in sales of products from these subcategories is a potentially efficient way of increasing business profitability.
+
+In particular, a 10% increase in sales of products from each of these subcategories would result in additional ≈$9,500 (≈3.5%) of net profits per year. However, this is not a particularly impressive improvement.
+
+#### 4.2.2. Geographical dimension: underexploited potential 
+From the graph below we may notice that two regions – East and West – tend to lead in terms of sales volume. However, there is a peculiar observation concerning the Central region: while sales volume is modest for most of the period, it surged impressively in the 4th quarter of 2016. 
+
+*Figure 10*
+
+![Figure 10](https://i.ibb.co/0y4hHztX/Figure-10.png)
+
+If we zoom in to this particular period, we may see that two states from the Central region – Michigan and Indiana – became clear leaders in terms of the net profit, leaving behind the overall leader, California. 
+
+*Figure 11*
+
+![Figure 11. Data for the 4th quarter of 2016](https://i.ibb.co/yc4stsp9/Figure-11.png)
+
+What if it would be possible to recreate the conditions of the 4th quarter of 2016 in other periods? It may be worthwhile to investigate what factors contributed to the increase in sales and profits during that period. If these factors would turn out to be flexible, then it would be possible to utilize them in order to increase business profitability in these two states in particular and in the Central region in general. 
+
+If it would be possible for the Central region to consistently achieve (for every quarter in a year) merely 10% of the net profit of the exceedingly successful 4th quarter of 2016, the total average annual net profit would increase by more than $20,000 (≈7.5%).  
+
+#### 4.3. Final recommendations 
 
